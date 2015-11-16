@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[horologyb]]></title>
         <description><![CDATA[horologyb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/horologyb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 17:41:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 17:42:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/horologyb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Luxury Watch Brands | Patek Philippe, Richard Mille, Hublot, Piaget & Breguet - Haute Time]]></title>
+            <description><![CDATA[<article><h1>Best Luxury Watch Brands | Patek Philippe, Richard Mille, Hublot, Piaget & Breguet - Haute Time</h1><p>Haute Time showcases the Best Limited Edition Luxury Watch Brands such as Patek Philippe, Richard Mille, Hublot, Breguet & Piaget, and more. The #1 online resource for luxury watches</p><img src="http://www.hautetime.com/wp-content/uploads/2015/01/haute-time-logo.png"></article>]]></description>
+            <link>http://www.hautetime.com/</link>
+            <guid isPermaLink="false">420f5fc0-b12c-44b3-8218-a334367135c5</guid>
+            <pubDate>Mon, 16 Nov 2015 17:41:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watches By SJX]]></title>
             <description><![CDATA[<article><h1>Watches By SJX</h1><p>Based in the Isle of Man, English watchmaker Roger W. Smith is best known as the protege of the late George Daniels, inventor of the Co-Axial escapement now used by Omega. Up till now, Roger W. Smith's offering of serially produced timepieces comprised of just a single model, the Series 2.</p><img src="http://4.bp.blogspot.com/--fXpDXwYl6U/VNwGXFP7FKI/AAAAAAAAlcw/y7SlK1W3-44/s640/IMG_9522.jpg"></article>]]></description>
